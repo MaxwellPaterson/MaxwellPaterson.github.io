@@ -2,3 +2,5 @@ title: <center>Max Paterson</center>
 logo: /images/Profilepic.jpg
 description: This is me!
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
