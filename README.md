@@ -22,4 +22,18 @@
 - Effectively organized data using Tableau, crafting visually compelling dashboards that contained easily comprehensible information
 - Proficiently managed large-scale datasets, utilizing a suite of tools including Excel, Tableau, Demand Tools, and Salesforce to manipulate data and create actionable insights.
 
+## Coding Projects
+
+**Predicting Medical Insurance Costs Using Multiple Linear Regression**
+Discovered the most important factors that drive the change in medical insurance costs. Utilized R to complete the statistical analysis, incorporating libraries such as GGally, Olsrr, Lmtest, and Mctest. 
+
+**Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada**
+Utilized Python and SQL to conduct data modeling and statistical analysis looking for relationships between these different metrics. Leveraging Pandas, Numpy, SQLAlchemy, Matplotlib and Plotly libraries.
+
+**Predicting Success Rate of Kickstarter Campaigns Using Linear Regression**
+Found a significant relationship between the success rate of a Kickstarer campaign and the total number of campaigns launched in the same month. The analysis was conducted using R libraries including GGplot2, Mosaic, Dplyr, and Tidyr.
+
+## Excel Projects
+
+**Entire Portfolio Scorecard Report**
 
