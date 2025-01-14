@@ -1,12 +1,24 @@
 # Data Scientist
 
-### Education
-Natural Science
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-### Work Experience
+## Education							       		
+- Masters in Data Science and Analytics | The University of Calgary _September 2024_ - _August 2025_ 	 			        		
+- Bachelors in Natural Science | The University of Calgary _September 2019_ - _May 2024_ 
 
-Energy benchmarker
+## Professional Experience
+**Energy Benchmarking Data Analyst Intern @ Boardwalk REIT  (_May 2024 – August 2024_)**
+- Performed in-depth statistical analysis to automatically identify outliers in utility usage per month across more than 7,000 distinct units.
+- Increase data completeness by over 75% by collecting utility usage data for 2023 on over 200 buildings in Energy Star Portfolio Manager.
+- Enhanced automation by creating excel processes for monitoring and tracking over 250 buildings KPIs reducing the time needed to complete this task from two hours to seconds.
 
-### Projects
+**Business Systems Intern @ Surerus Murphy Joint Venture  (_May 2023 – August 2023_)**
+- Developed and maintained interactive dashboards and reports through Power BI, employing DAX to create and track Key Performance Indicators (KPIs).
+- Created comprehensive data models to connect datasets within the organization's data repository, ensuring accuracy of relationships and links between tables.
+- Automated an intricate financial depreciation task using Excel, leading to a 75% decrease in the number of hours it takes to complete.
 
+**Junior Data Analyst @ The Mustard Seed   (_January 2022 – March 2023_)**
+- Implemented a tracking system to trace contact initiated from the contact center to subsequent donations resulting in the identification of over $1.5M of donations to the contact center’s efforts.
+- Effectively organized data using Tableau, crafting visually compelling dashboards that contained easily comprehensible information
+- Proficiently managed large-scale datasets, utilizing a suite of tools including Excel, Tableau, Demand Tools, and Salesforce to manipulate data and create actionable insights.
 
