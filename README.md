@@ -22,3 +22,4 @@
 - Effectively organized data using Tableau, crafting visually compelling dashboards that contained easily comprehensible information
 - Proficiently managed large-scale datasets, utilizing a suite of tools including Excel, Tableau, Demand Tools, and Salesforce to manipulate data and create actionable insights.
 
+
