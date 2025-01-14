@@ -4,3 +4,4 @@ description: <center>This is me!</center>
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+classes: wide
