@@ -58,4 +58,4 @@ Tableau and Power BI laugh in the face of excel and its capabilities when it com
   </a>
 </p>
 
-### [Utility Outlier Identifier](/pages/utilityoutlier.md)
+### [Utility Outlier Identifier](/pages/utilityoutliers.md)
