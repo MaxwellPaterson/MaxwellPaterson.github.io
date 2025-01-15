@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About Me
-Hello and welcome to my portfolio, thank you for taking the time to look at my work! Outside of Data Science and Analytics, I enjoy reading a wide range of genres. While I primarily focus on history and nonfiction, I also enjoy fantasy books, I'm currently working my way through the Game of Thrones series. Additionally, I love spending time outdoors, hiking and camping are some of my favorite activities. In the winter, I especially enjoy cross-country skiing. And if your a potential employer ignore all those activities I only *LOVE* Data Science and Analytics... <sub>(sorry mom)</sub>
+Hello and welcome to my portfolio, thank you for taking the time to look at my work! Outside of Data Science and Analytics, I enjoy reading a wide range of genres. While I primarily focus on history and nonfiction, I also enjoy fantasy books. I'm currently working my way through the Game of Thrones series. Additionally, I love spending time outdoors, hiking and camping are some of my favorite activities. In the winter, I especially enjoy cross-country skiing. And if your a potential employer ignore all those activities I only *LOVE* Data Science and Analytics... <sub>(sorry mom)</sub>
 
 ## Education							       		
 - Masters in Data Science and Analytics | The University of Calgary _September 2024_ - _August 2025_ 	 			        		
