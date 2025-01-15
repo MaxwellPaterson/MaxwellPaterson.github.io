@@ -50,5 +50,5 @@ Tableau and Power BI laugh in the face of excel and its capabilities when it com
 [**Entire Portfolio Scorecard Report**](/pages/scorecard.md)
 
 <p align = 'center'>
-  [<img src="/images/scorecardview.png?raw=true" height = "75%" width = "75%">](/pages/scorecard.md)
+  <img src="/images/scorecardview.png?raw=true" alt="/pages/scorecard.md" height = "75%" width = "75%">
 </p>
