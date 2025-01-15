@@ -34,14 +34,15 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 **Predicting Medical Insurance Costs Using Multiple Linear Regression**<br>
 Discovered the most important factors that drive the change in medical insurance costs. Utilized R to complete the statistical analysis, incorporating libraries such as GGally, Olsrr, Lmtest, and Mctest. 
 <p align = 'center'>
-  #<a href="https://maxwellpaterson.github.io/pages/scorecard.html">
-  <img src="/images/medicalpic.png?raw=true" height = "50%" width = "50%">
-  #</a>
+  <img src="/images/medicalpic.png?raw=true" height = "50%" width = "50%"> 
 </p>
 
 
 **Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada**<br>
 Utilized Python and SQL to conduct data modeling and statistical analysis looking for relationships between these different metrics. Leveraging Pandas, Numpy, SQLAlchemy, Matplotlib and Plotly libraries.
+<p align = 'center'>
+  <img src="/images/opioiddeaths.png?raw=true" height = "100%" width = "100%"> 
+</p>
 
 **Predicting Success Rate of Kickstarter Campaigns Using Linear Regression**<br>
 Found a significant relationship between the success rate of a Kickstarer campaign and the total number of campaigns launched in the same month. The analysis was conducted using R libraries including GGplot2, 
