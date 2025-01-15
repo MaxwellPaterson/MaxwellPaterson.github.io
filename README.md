@@ -3,13 +3,13 @@
 ## About Me
 Hello and welcome to my portfolio, thank you for taking the time to look at my work! Outside of Data Science and Analytics, I enjoy reading a wide range of genres. While I primarily focus on history and nonfiction, I also enjoy fantasy books. I'm currently working my way through the Game of Thrones series. Additionally, I love spending time outdoors, hiking and camping are some of my favorite activities. In the winter, I especially enjoy cross-country skiing. And if your a potential employer ignore all those activities I only *LOVE* Data Science and Analytics... <sub>sorry mom</sub>
 
-<br><br><br>
+<br>
 
 ## Education							       		
 - Masters in Data Science and Analytics | The University of Calgary _September 2024_ - _August 2025_ 	 			        		
 - Bachelors in Natural Science | The University of Calgary _September 2019_ - _May 2024_ 
 
-<br><br><br>
+<br>
 
 ## Professional Experience
 **Energy Benchmarking Data Analyst Intern @ Boardwalk REIT  (_May 2024 – August 2024_)**
@@ -27,7 +27,7 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 - Effectively organized data using Tableau, crafting visually compelling dashboards that contained easily comprehensible information
 - Proficiently managed large-scale datasets, utilizing a suite of tools including Excel, Tableau, Demand Tools, and Salesforce to manipulate data and create actionable insights.
 
-<br><br><br>
+<br>
 
 ## Coding Projects
 
@@ -41,7 +41,7 @@ Utilized Python and SQL to conduct data modeling and statistical analysis lookin
 Found a significant relationship between the success rate of a Kickstarer campaign and the total number of campaigns launched in the same month. The analysis was conducted using R libraries including GGplot2, 
 Mosaic, Dplyr, and Tidyr.
 
-<br><br><br>
+<br>
 
 ## Excel Projects
 
