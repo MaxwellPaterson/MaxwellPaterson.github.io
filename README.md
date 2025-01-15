@@ -31,18 +31,18 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 
 ## Coding Projects
 
-### Predicting Medical Insurance Costs Using Multiple Linear Regression
+### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md) <br>
 <p align = 'center'>
   <img src="/images/medicalpic.png?raw=true" height = "50%" width = "50%"> 
 </p>
 
 
-### Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada <br>
+### [Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada](/pages/cpi.md) <br>
 <p align = 'center'>
   <img src="/images/opioiddeaths.png?raw=true" height = "80%" width = "80%"> 
 </p>
 
-### Predicting Success Rate of Kickstarter Campaigns Using Linear Regression <br>
+### [Predicting Success Rate of Kickstarter Campaigns Using Linear Regression](/pages/kickstarter.md) <br>
 
 <br>
 
@@ -57,3 +57,5 @@ Tableau and Power BI laugh in the face of excel and its capabilities when it com
   <img src="/images/scorecardview.png?raw=true" alt="/pages/scorecard.md" height = "75%" width = "75%">
   </a>
 </p>
+
+### [Utility Outlier Identifier](/pages/utilityoutlier.md)
