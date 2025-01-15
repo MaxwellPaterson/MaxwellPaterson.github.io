@@ -6,8 +6,8 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 <br>
 
 ## Education							       		
-- Masters in Data Science and Analytics @ The University of Calgary _September 2024_ - _August 2025_ 	 			        		
-- Bachelors in Natural Science @ The University of Calgary _September 2019_ - _May 2024_ 
+- Masters in Data Science and Analytics | <P align="right"> The University of Calgary _September 2024_ - _August 2025_ 	 			        		
+- Bachelors in Natural Science | The University of Calgary _September 2019_ - _May 2024_ 
 
 <br>
 
