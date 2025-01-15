@@ -6,8 +6,8 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 <br>
 
 ## Education							       		
-- Masters in Data Science and Analytics | <center> The University of Calgary _September 2024_ - _August 2025_ </center>		        		
-- Bachelors in Natural Science | <center> The University of Calgary _September 2019_ - _May 2024_ </center>	
+- Masters in Data Science and Analytics | <right> The University of Calgary _September 2024_ - _August 2025_ </right>		        		
+- Bachelors in Natural Science | <right> The University of Calgary _September 2019_ - _May 2024_ </right>	
 
 <br>
 
@@ -52,7 +52,7 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 
 ## Excel Projects
 
-Tableau and Power BI laugh in the face of excel and its capabilities when it comes to creating dashboards. However, sometimes Excel is what you are given to complete a certain project and all it takes is a bit of creativity to get there (aka thousands of unresolved google searches). I really do believe that being creative and coming up with interesting solutions to problems is a big part of Data Science and although Excel is not the fanciest program to use I am proud of the projects that I have created using it.
+Tableau and Power BI laugh in the face of excel and its capabilities when it comes to creating dashboards and manipulating large amounts of data. However, sometimes Excel is what you are given to complete a certain project and all it takes is a bit of creativity to get there (aka thousands of unresolved google searches). I really do believe that being creative and coming up with interesting solutions to problems is a big part of Data Science and although Excel is not the fanciest program to use I am proud of the projects that I have created with it.
 
 ### [Entire Portfolio Scorecard Report](/pages/scorecard.md)
 
