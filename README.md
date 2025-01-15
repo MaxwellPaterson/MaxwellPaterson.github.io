@@ -50,7 +50,7 @@ Tableau and Power BI laugh in the face of excel and its capabilities when it com
 [**Entire Portfolio Scorecard Report**](/pages/scorecard.md)
 
 <p align = 'center'>
-  <a href="https://maxwellpaterson.github.io/pages/scorecard.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://maxwellpaterson.github.io/pages/scorecard.html">
   <img src="/images/scorecardview.png?raw=true" alt="/pages/scorecard.md" height = "75%" width = "75%">
   </a>
 </p>
