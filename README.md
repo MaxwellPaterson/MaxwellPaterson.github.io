@@ -47,5 +47,5 @@ Mosaic, Dplyr, and Tidyr.
 
 Tableau and Power BI laugh in the face of excel and its capabilities when it comes to creating dashboards. However, sometimes Excel is what you are given to complete a certain project and all it takes is a bit of creativity to get there (aka thousands of unresolved google searches). I really do believe that being creative and coming up with interesting solutions to problems is a big part of Data Science and although Excel is not the fanciest program to use I am proud of the projects that I have created using it.
 
-**Entire Portfolio Scorecard Report**
+[**Entire Portfolio Scorecard Report**](/pages/scorecard.md)
 
