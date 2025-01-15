@@ -31,20 +31,18 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 
 ## Coding Projects
 
-**Predicting Medical Insurance Costs Using Multiple Linear Regression**<br>
+### Predicting Medical Insurance Costs Using Multiple Linear Regression <br>
 <p align = 'center'>
   <img src="/images/medicalpic.png?raw=true" height = "50%" width = "50%"> 
 </p>
 
 
-**Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada**<br>
+### Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada <br>
 <p align = 'center'>
   <img src="/images/opioiddeaths.png?raw=true" height = "80%" width = "80%"> 
 </p>
 
-**Predicting Success Rate of Kickstarter Campaigns Using Linear Regression**<br>
-Found a significant relationship between the success rate of a Kickstarer campaign and the total number of campaigns launched in the same month. The analysis was conducted using R libraries including GGplot2, 
-Mosaic, Dplyr, and Tidyr.
+### Predicting Success Rate of Kickstarter Campaigns Using Linear Regression <br>
 
 <br>
 
