@@ -2,11 +2,15 @@
 
 ## About Me
 Hello and welcome to my portfolio, thank you for taking the time to look at my work! Outside of Data Science and Analytics, I enjoy reading a wide range of genres. While I primarily focus on history and nonfiction, I also enjoy fantasy books. I'm currently working my way through the Game of Thrones series. Additionally, I love spending time outdoors, hiking and camping are some of my favorite activities. In the winter, I especially enjoy cross-country skiing. And if your a potential employer ignore all those activities I only *LOVE* Data Science and Analytics... <sub>sorry mom</sub>
+
 <br><br><br>
+
 ## Education							       		
 - Masters in Data Science and Analytics | The University of Calgary _September 2024_ - _August 2025_ 	 			        		
 - Bachelors in Natural Science | The University of Calgary _September 2019_ - _May 2024_ 
+
 <br><br><br>
+
 ## Professional Experience
 **Energy Benchmarking Data Analyst Intern @ Boardwalk REIT  (_May 2024 – August 2024_)**
 - Performed in-depth statistical analysis to automatically identify outliers in utility usage per month across more than 7,000 distinct units.
@@ -22,7 +26,9 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 - Implemented a tracking system to trace contact initiated from the contact center to subsequent donations resulting in the identification of over $1.5M of donations to the contact center’s efforts.
 - Effectively organized data using Tableau, crafting visually compelling dashboards that contained easily comprehensible information
 - Proficiently managed large-scale datasets, utilizing a suite of tools including Excel, Tableau, Demand Tools, and Salesforce to manipulate data and create actionable insights.
+
 <br><br><br>
+
 ## Coding Projects
 
 **Predicting Medical Insurance Costs Using Multiple Linear Regression**
@@ -32,8 +38,11 @@ Discovered the most important factors that drive the change in medical insurance
 Utilized Python and SQL to conduct data modeling and statistical analysis looking for relationships between these different metrics. Leveraging Pandas, Numpy, SQLAlchemy, Matplotlib and Plotly libraries.
 
 **Predicting Success Rate of Kickstarter Campaigns Using Linear Regression**
-Found a significant relationship between the success rate of a Kickstarer campaign and the total number of campaigns launched in the same month. The analysis was conducted using R libraries including GGplot2, Mosaic, Dplyr, and Tidyr.
+Found a significant relationship between the success rate of a Kickstarer campaign and the total number of campaigns launched in the same month. The analysis was conducted using R libraries including GGplot2, 
+Mosaic, Dplyr, and Tidyr.
+
 <br><br><br>
+
 ## Excel Projects
 
 Tableau and Power BI laugh in the face of excel and its capabilities when it comes to creating dashboards. However, sometimes Excel is what you are given to complete a certain project and all it takes is a bit of creativity to get there (aka thousands of unresolved google searches). I really do believe that being creative and coming up with interesting solutions to problems is a big part of Data Science and although Excel is not the fanciest program to use I am proud of the projects that I have created using it.
