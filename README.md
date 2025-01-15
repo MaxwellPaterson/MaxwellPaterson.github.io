@@ -32,13 +32,12 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 ## Coding Projects
 
 **Predicting Medical Insurance Costs Using Multiple Linear Regression**<br>
+Discovered the most important factors that drive the change in medical insurance costs. Utilized R to complete the statistical analysis, incorporating libraries such as GGally, Olsrr, Lmtest, and Mctest. 
 <p align = 'center'>
   #<a href="https://maxwellpaterson.github.io/pages/scorecard.html">
-  <img src="/images/medicalpic.png?raw=true" height = "75%" width = "75%">
+  <img src="/images/medicalpic.png?raw=true" height = "50%" width = "50%">
   #</a>
 </p>
-Discovered the most important factors that drive the change in medical insurance costs. Utilized R to complete the statistical analysis, incorporating libraries such as GGally, Olsrr, Lmtest, and Mctest. 
-
 
 
 **Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada**<br>
