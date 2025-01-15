@@ -63,8 +63,14 @@ Tableau and Power BI laugh in the face of excel and its capabilities when it com
 
 <p align = 'center'>
   <a href="https://maxwellpaterson.github.io/pages/scorecard.html">
-  <img src="/images/scorecardview.png?raw=true" alt="/pages/scorecard.md" height = "75%" width = "75%">
+  <img src="/images/scorecardview.png?raw=true" height = "75%" width = "75%">
   </a>
 </p>
 
 ### [Utility Outlier Identifier](/pages/utilityoutliers.md)
+
+<p align = 'center'>
+  <a href="https://maxwellpaterson.github.io/pages/utilityoutliers.html">
+  <img src="/images/utilityoutlier.png?raw=true" height = "75%" width = "75%">
+  </a>
+</p>
