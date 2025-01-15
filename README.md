@@ -41,7 +41,7 @@ Discovered the most important factors that drive the change in medical insurance
 **Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada**<br>
 Utilized Python and SQL to conduct data modeling and statistical analysis looking for relationships between these different metrics. Leveraging Pandas, Numpy, SQLAlchemy, Matplotlib and Plotly libraries.
 <p align = 'center'>
-  <img src="/images/opioiddeaths.png?raw=true" height = "100%" width = "100%"> 
+  <img src="/images/opioiddeaths.png?raw=true" height = "80%" width = "80%"> 
 </p>
 
 **Predicting Success Rate of Kickstarter Campaigns Using Linear Regression**<br>
