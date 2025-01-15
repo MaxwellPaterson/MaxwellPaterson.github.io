@@ -32,14 +32,12 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 ## Coding Projects
 
 **Predicting Medical Insurance Costs Using Multiple Linear Regression**<br>
-Discovered the most important factors that drive the change in medical insurance costs. Utilized R to complete the statistical analysis, incorporating libraries such as GGally, Olsrr, Lmtest, and Mctest. 
 <p align = 'center'>
   <img src="/images/medicalpic.png?raw=true" height = "50%" width = "50%"> 
 </p>
 
 
 **Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada**<br>
-Utilized Python and SQL to conduct data modeling and statistical analysis looking for relationships between these different metrics. Leveraging Pandas, Numpy, SQLAlchemy, Matplotlib and Plotly libraries.
 <p align = 'center'>
   <img src="/images/opioiddeaths.png?raw=true" height = "80%" width = "80%"> 
 </p>
@@ -54,7 +52,7 @@ Mosaic, Dplyr, and Tidyr.
 
 Tableau and Power BI laugh in the face of excel and its capabilities when it comes to creating dashboards. However, sometimes Excel is what you are given to complete a certain project and all it takes is a bit of creativity to get there (aka thousands of unresolved google searches). I really do believe that being creative and coming up with interesting solutions to problems is a big part of Data Science and although Excel is not the fanciest program to use I am proud of the projects that I have created using it.
 
-[**Entire Portfolio Scorecard Report**](/pages/scorecard.md)
+[Entire Portfolio Scorecard Report](/pages/scorecard.md)
 
 <p align = 'center'>
   <a href="https://maxwellpaterson.github.io/pages/scorecard.html">
