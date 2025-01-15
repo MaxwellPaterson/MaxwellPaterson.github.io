@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About Me
-Hello and welcome to my portfolio! I am currently enrolled in the Masters of Data Science and Analytics at University of Calgary and am scheduled to graduate at the end of summer 2025. Previously I completed my bachelors in Natural Science with a concentration in Physics and Geology, I also have a strong background in math as I took many math classes as options. Outside of Data Science and Analytics I like reading, I read lots of history and nonfiction but also enjoy fantasy books as well, I like hiking and camping and in the winter enjoy cross country skiing. If your a recruiter ignore all those things I only *love* Data Science and Analytics <h1 style="font-size:1vw"><sub>(sorry mom)</sub></h1>.
+Hello and welcome to my portfolio! I am currently enrolled in the Masters of Data Science and Analytics at University of Calgary and am scheduled to graduate at the end of summer 2025. Previously I completed my bachelors in Natural Science with a concentration in Physics and Geology, I also have a strong background in math as I took many math classes as options. Outside of Data Science and Analytics I like reading, I read lots of history and nonfiction but also enjoy fantasy books as well, I like hiking and camping and in the winter enjoy cross country skiing. If your a recruiter ignore all those things I only *love* Data Science and Analytics <p style="font-size:1vw">(sorry mom)</p>.
 
 ## Education							       		
 - Masters in Data Science and Analytics | The University of Calgary _September 2024_ - _August 2025_ 	 			        		
