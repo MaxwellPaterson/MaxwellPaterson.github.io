@@ -31,8 +31,8 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 
 ## Coding Projects
 
+### Predicting Medical Insurance Costs Using Multiple Linear Regression
 <p align = 'center'>
-### Predicting Medical Insurance Costs Using Multiple Linear Regression <br>
   <img src="/images/medicalpic.png?raw=true" height = "50%" width = "50%"> 
 </p>
 
