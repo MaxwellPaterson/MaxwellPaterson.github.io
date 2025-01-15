@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About Me
-Hello and welcome to my portfolio! Outside of Data Science and Analytics I like reading, I read lots of history and nonfiction but also enjoy fantasy books as well, I like hiking and camping and in the winter enjoy cross country skiing. If your a potential employer ignore all those things I only *LOVE* Data Science and Analytics... <sub>(sorry mom)</sub>
+Hello and welcome to my portfolio, thank you for taking the time to look at my work! Outside of Data Science and Analytics I like reading, I read lots of history and nonfiction but also enjoy fantasy books as well, I like hiking and camping and in the winter enjoy cross country skiing. If your a potential employer ignore all those things I only *LOVE* Data Science and Analytics... <sub>(sorry mom)</sub>
 
 ## Education							       		
 - Masters in Data Science and Analytics | The University of Calgary _September 2024_ - _August 2025_ 	 			        		
