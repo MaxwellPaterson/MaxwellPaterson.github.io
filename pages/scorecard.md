@@ -18,6 +18,6 @@ This is a feature that I had previously never worked with but it proved very hel
 
 -Pre and post name manager charts
 
-Of course there is lots of other very carefully created formulas in this project that have not been discussed here. If you want to play around with the excel file click [here](https://1drv.ms/x/c/84f846ad7ca6106f/EQ7pIhZu0GJFuhwN4TXQvMwBS1zvFsW-83QJw9Vxija5fQ?e=fYrijr). <a href="https://1drv.ms/x/c/84f846ad7ca6106f/EQ7pIhZu0GJFuhwN4TXQvMwBS1zvFsW-83QJw9Vxija5fQ?e=fYrijr" target="_blank"> here </a>
+Of course there is lots of other very carefully created formulas in this project that have not been discussed here. If you want to play around with the excel file click <a href="https://1drv.ms/x/c/84f846ad7ca6106f/EQ7pIhZu0GJFuhwN4TXQvMwBS1zvFsW-83QJw9Vxija5fQ?e=fYrijr" target="_blank" rel="noopener noreferrer"> here </a>.
 
 Due to privacy reasons all the numbers and names in this project have been changed and do not represent the actual emmisions or usages of any buildings.
