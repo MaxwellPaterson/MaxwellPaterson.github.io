@@ -35,7 +35,7 @@ Website still being developed (Jan 17th 2025)
 ### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md) <br>
 <p align = 'center'>
   <a href="https://maxwellpaterson.github.io/pages/medicalinsurance.html">
-  <img src="/images/medicalpic.png?raw=true" height = "50%" width = "50%"> 
+  <img src="/images/medicalpic.png?raw=true" height = "50%" width = "55%"> 
   </a>
 </p>
 
@@ -50,7 +50,7 @@ Website still being developed (Jan 17th 2025)
 ### [Predicting Success Rate of Kickstarter Campaigns Using Linear Regression](/pages/kickstarter.md) <br>
 <p align = 'center'>
   <a href="https://maxwellpaterson.github.io/pages/kickstarter.html">
-  <img src="/images/kickstarterpic.png?raw=true" height = "50%" width = "55%"> 
+  <img src="/images/kickstarterpic.png?raw=true" height = "50%" width = "50%"> 
   </a>
 </p>
 
