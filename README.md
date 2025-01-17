@@ -31,7 +31,8 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 Website still being developed (Jan 17th 2025)
 
 ## Coding Projects
-<center>
+
+<p style="text-align: center;">
   
 ### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md) <br>
 
@@ -54,9 +55,8 @@ Website still being developed (Jan 17th 2025)
   <img src="/images/kickstarterpic.png?raw=true" height = "50%" width = "50%"> 
   </a>
 
-
+</p>
 <br>
-</center>
 
 ## Excel Projects
 
