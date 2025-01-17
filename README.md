@@ -32,10 +32,8 @@ Website still being developed (Jan 17th 2025)
 
 ## Coding Projects
 
-<p align = 'center'>
-  
-### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md) <br>
-
+<p align = 'center'>   
+  ### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md)
 </p>
 <p align = 'center'>
   <a href="https://maxwellpaterson.github.io/pages/medicalinsurance.html">
