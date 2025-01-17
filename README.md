@@ -32,8 +32,10 @@ Website still being developed (Jan 17th 2025)
 
 ## Coding Projects
   
-<center> 
+<center>
+  
 ### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md)
+
 </center><br>
 
 <p align = 'center'>
