@@ -35,11 +35,11 @@ Website still being developed (Jan 17th 2025)
 
   
 ### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md) <br>
-
-<a href="https://maxwellpaterson.github.io/pages/medicalinsurance.html">
-<img src="/images/medicalpic.png?raw=true" height = "50%" width = "55%" class = "center"> 
-</a>
-
+<p align = 'center'>
+  <a href="https://maxwellpaterson.github.io/pages/medicalinsurance.html">
+  <img src="/images/medicalpic.png?raw=true" height = "50%" width = "55%" class = "center"> 
+  </a>
+</p>
 
 
 ### [Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada](/pages/cpi.md) <br>
@@ -55,7 +55,6 @@ Website still being developed (Jan 17th 2025)
   <img src="/images/kickstarterpic.png?raw=true" height = "50%" width = "50%"> 
   </a>
 
-</p>
 <br>
 
 ## Excel Projects
