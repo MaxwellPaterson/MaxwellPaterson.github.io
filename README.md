@@ -33,26 +33,26 @@ Website still being developed (Jan 17th 2025)
 ## Coding Projects
 
 ### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md) <br>
-<p align = 'center'>
+
   <a href="https://maxwellpaterson.github.io/pages/medicalinsurance.html">
   <img src="/images/medicalpic.png?raw=true" height = "50%" width = "55%"> 
   </a>
-</p>
+
 
 
 ### [Relationship Between CPI, Labor Force Characteristics and Opioid Deaths in Canada](/pages/cpi.md) <br>
-<p align = 'center'>
+
   <a href="https://maxwellpaterson.github.io/pages/cpi.html">
   <img src="/images/opioiddeaths.png?raw=true" height = "130%" width = "50%"> 
   </a>
-</p>
+
 
 ### [Predicting Success Rate of Kickstarter Campaigns Using Linear Regression](/pages/kickstarter.md) <br>
-<p align = 'center'>
+
   <a href="https://maxwellpaterson.github.io/pages/kickstarter.html">
   <img src="/images/kickstarterpic.png?raw=true" height = "50%" width = "50%"> 
   </a>
-</p>
+
 
 <br>
 
@@ -62,16 +62,16 @@ Tableau and Power BI laugh in the face of excel and its capabilities when it com
 
 ### [Portfolio Scorecard Report](/pages/scorecard.md)
 
-<p align = 'center'>
+
   <a href="https://maxwellpaterson.github.io/pages/scorecard.html">
   <img src="/images/scorecardview.png?raw=true" height = "75%" width = "75%">
   </a>
-</p>
+
 
 ### [Utility Outlier Identifier](/pages/utilityoutliers.md)
 
-<p align = 'center'>
+
   <a href="https://maxwellpaterson.github.io/pages/utilityoutliers.html">
   <img src="/images/utilityoutlier.png?raw=true" height = "75%" width = "75%">
   </a>
-</p>
+
