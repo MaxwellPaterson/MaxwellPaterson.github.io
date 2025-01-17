@@ -31,13 +31,10 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 Website still being developed (Jan 17th 2025)
 
 ## Coding Projects
-  
-<center>
-  
-### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md)
 
-</center><br>
-
+<p align = 'center'>
+### [Predicting Medical Insurance Costs Using Multiple Linear Regression](/pages/medicalinsurance.md) <br>
+</p>
 <p align = 'center'>
   <a href="https://maxwellpaterson.github.io/pages/medicalinsurance.html">
   <img src="/images/medicalpic.png?raw=true" height = "50%" width = "55%" class = "center"> 
