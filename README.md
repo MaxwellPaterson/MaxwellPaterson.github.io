@@ -1,13 +1,13 @@
 # Data Scientist
 
 ## About Me
-Hello and welcome to my portfolio, thank you for taking the time to look at my work! Outside of Data Science and Analytics I enjoy reading history and nonfiction, I also occasionally read fantasy books. Additionally, I love spending time outdoors, hiking and camping are some of my favorite activities. In the winter however, I enjoy cross-country skiing. And if your a potential employer ignore all those activities I only *LOVE* Data Science and Analytics... <sub>sorry mom</sub>
+Hello and welcome to my portfolio, thank you for taking the time to look at my work! Outside of Data Science and Analytics I enjoy reading history and nonfiction, I also occasionally read fantasy books. Additionally, I love spending time outdoors, hiking and camping are some of my favorite activities. In the winter however, I enjoy cross-country skiing. And if your a potential employer ignore all those activities I only *LOVE* Data Science and Analytics...
 
 <br>
 
 ## Education							       		
 - Masters in Data Science and Analytics | The University of Calgary _September 2024_ - _August 2025_       		
-- Bachelors in Natural Science | The University of Calgary _September 2019_ - _May 2024_
+- Bachelors in Natural Science |          The University of Calgary _September 2019_ - _May 2024_
 
 <br>
 
@@ -28,7 +28,7 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 - Proficiently managed large-scale datasets, utilizing a suite of tools including Excel, Tableau, Demand Tools, and Salesforce to manipulate data and create actionable insights.
 
 <br>
-Website still being developed (Jan 15th 2025)
+Website still being developed (Jan 17th 2025)
 
 ## Coding Projects
 
