@@ -28,7 +28,7 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 - Proficiently managed large-scale datasets, utilizing a suite of tools including Excel, Tableau, Demand Tools, and Salesforce to manipulate data and create actionable insights.
 
 <br>
-Website still being developed (Jan 17th 2025)
+Website still being developed (Jan 20th 2025)
 
 ## Coding Projects
  
