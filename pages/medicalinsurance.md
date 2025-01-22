@@ -12,7 +12,7 @@ The goal of this project was to create a model that could determine the medical 
 
 First, we began by creating a full model for the data, including all of the variables in our regression model. The model that this created was the following
 
-fullmodeleq (pic)
+<img src="/images/fullmodeleq.png?raw=true" height = "50%" width = "50%"> 
 
 Using this model we started by checking to make sure there was no multicollinearity present. This is to ensure that the variables that we are looking at are not affecting eachother as this would cause problems when we have a model with both variables as one of the independent variables, as they are technically speaking not independent if they affect eachother. Luckily, we found no multicollinearity in our model.
 
