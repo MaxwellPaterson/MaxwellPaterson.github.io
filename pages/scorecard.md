@@ -30,7 +30,7 @@ This is a feature that I had previously never worked with but it proved very hel
 </p>
 
 <br><br> 
-Of course there is lots of other very carefully created formulas in this project that have not been discussed here. If you want to play around with the excel file click <a href="/projects/Portfolio Scorecard Report Replica.xlsx" target="_blank" rel="noopener noreferrer" download> HERE </a>.
+Of course there is lots of other very carefully created formulas in this project that have not been discussed here. If you want to play around with the excel file click <a href="/projects/Portfolio Scorecard Report Replica.xlsx" target="_blank" rel="noopener noreferrer" download> HERE </a> and download.
 
 
 
