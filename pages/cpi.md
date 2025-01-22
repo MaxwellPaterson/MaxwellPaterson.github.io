@@ -14,25 +14,15 @@ The goal of this project was to take four datasets and create a data model to co
 
 ### Process
 
-""SQL("""
-    select Region_Year_Quarter,
-    cast(Total_opioid_toxicity_deaths as int) as Total_opioid_toxicity_deaths
-    from Opiates
-    where region != 'Territories'
-        and region != 'Whitehorse, Yukon'
-        and region != 'Winnipeg, Manitoba'
-        and region != 'Yellowknife, Northwest Territories'
-        and region != 'Northern and rural Manitoba'
-        and region != 'Canada'
-        and Total_opioid_toxicity_deaths > (select avg(Total_opioid_toxicity_deaths) from Opiates
-                                            where region != 'Territories'
-                                            and region != 'Whitehorse, Yukon'
-                                            and region != 'Winnipeg, Manitoba'
-                                            and region != 'Yellowknife, Northwest Territories'
-                                            and region != 'Northern and rural Manitoba'
-                                            and region != 'Canada')
-    group by Total_opioid_toxicity_deaths desc
-    """)""
+Due to the number of datasets being used in this project lots of the work done at the start was cleaning the datasets and ensuring that they would be able to seamlessly connect to eachother without formatting issues. After cleaning the datasets we began to use SQL to draw data from the singular datasets in order to draw insights from the data. The following SQL query was an example of one of these queries were we wanted to find the quarters that had more than average deaths due to opioids.
+
+<p align = 'center'>
+  <img src="/images/morethanaverage.png?raw=true" height = "100%" width = "100%"> 
+</p>
+
+This project gave us lots of hands on practice using SQL through python, utilizing the Sqlalchemy library. 
+
+
 
 ### Conclusion
 
