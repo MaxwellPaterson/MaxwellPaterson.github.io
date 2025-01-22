@@ -7,7 +7,7 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 
 ## Education							       		
 - Masters in Data Science and Analytics | The University of Calgary _September 2024_ - _August 2025_       		
-- Bachelors in Natural Science |          The University of Calgary _September 2019_ - _May 2024_
+- Bachelors in Natural Science | The University of Calgary _September 2019_ - _May 2024_
 
 <br>
 
@@ -28,7 +28,7 @@ Hello and welcome to my portfolio, thank you for taking the time to look at my w
 - Proficiently managed large-scale datasets, utilizing a suite of tools including Excel, Tableau, Demand Tools, and Salesforce to manipulate data and create actionable insights.
 
 <br>
-Website still being developed (Jan 20th 2025)
+Website still being developed (Jan 22nd 2025)
 
 ## Coding Projects
  
