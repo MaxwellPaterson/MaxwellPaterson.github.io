@@ -21,7 +21,7 @@ We then conducted multiple tests, such as the ANOVA test, F-test and T-test to d
 From here we began to look at possible interaction terms and higher order terms that could be used to increase the accuracy of our model and found that the following interaction terms and higher order terms were significant enough to be included in our model.
 
 <p align = 'center'>
-  <img src="/images/highermodeleq.png?raw=true" height = "100%" width = "100%"> 
+  <img src="/images/higherordereq.png?raw=true" height = "100%" width = "100%"> 
 </p>
 
 ### Conclusion
