@@ -1,19 +1,23 @@
-title: <center>Max Paterson</center>
+title: Max Paterson
+
 logo: /images/Profilepic.jpg
 
-description: | 
-  <center>
-  <br>
-  Please Contact for Resume 
-  <br><br>
-  Phone Number: (403) 471-3115 
-  <br> <br>
-  Email: Max.r.paterson@gmail.com
-  <br><br>
-  <a href="https://www.linkedin.com/in/maxwellpaterson/">View My LinkedIn Profile</a>
-  </center>
+description: |
+  Data Analyst | Business Intelligence | Python | SQL | Power BI
 
-theme: jekyll-theme-minimal
+  Please Contact for Resume
+
+  Phone Number: (403) 471-3115
+
+  Email: Max.r.paterson@gmail.com
+
+  <a href="https://www.linkedin.com/in/maxwellpaterson/" target="_blank">
+    View My LinkedIn Profile
+  </a>
+
+theme: null
+
+markdown: kramdown
+
 github:
   is_project_page: false
-classes: wide
