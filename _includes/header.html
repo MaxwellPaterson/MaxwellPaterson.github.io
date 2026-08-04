@@ -17,16 +17,3 @@
   <span class="home-text">Home</span>
 </div>
 
-<script>
-$( ".menu-btn" ).click(function() {
-    if (  $( ".menu-text" ).css( "opacity" ) == "0" ){
-        $(".menu-line:nth-of-type(2)").css("transform","rotate(135deg)");
-        $(".menu-text").css("opacity", "1");
-        $( "#main-menu" ).css("transform", "translate(0%, -116%) matrix(1, 0, 0, 1, 0, 0)");
-    } else {
-        $(".menu-line:nth-of-type(2)").css("transform","rotate(44deg)");
-        $(".menu-text").css("opacity", "0");
-        $( "#main-menu" ).css("transform", "matrix(1, 0, 0, 1, 0, 0)");
-    }
-});
-</script>
