@@ -1,73 +1,46 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}">
+<html>
+{% include head.html %}
+<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
+  {% if site.google_tag_manager %}
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','{{ site.google_tag_manager }}');</script>
+  {% endif %}
+	{% if site.facebook_comments %}
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId={{ site.facebook_appid }}";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+	{% endif %}
+  {% include header.html %}
+  <div class="site-wrap">
 
-<head>
 
-<meta charset="UTF-8">
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<title>{{ site.title }}</title>
-
-<meta name="description" content="{{ site.description }}">
-
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
-</head>
-
-
-<body>
-
-<div class="container">
-
-
-<header class="profile-header">
-
-{% if site.logo %}
-
-<img src="{{ site.logo | relative_url }}" alt="Profile Picture" class="profile-image">
-
-{% endif %}
-
-<div class="profile-meta">
-    <h1>
-        {{ site.title }}
-    </h1>
-
-    <div class="description">
-        {{ site.description }}
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        {{ content }}
+      </div>
     </div>
-</div>
+  </div>
 
-</header>
-
-
-
-<hr>
-
-
-
-<main>
-
-{{ content }}
-
-</main>
-
-
-
-<footer>
-
-<p>
-© {{ site.time | date: '%Y' }} {{ site.title }}
-</p>
-
-</footer>
-
-
-
-</div>
-
-
+  {% include footer.html %}
 </body>
-
 </html>
+
+{% if page.flicker %}
+<script type="text/javascript">
+  {% include js/flicker.js %}
+</script>
+{% endif %}
